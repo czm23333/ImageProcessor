@@ -14,7 +14,7 @@ It's a tool that can help you turn your images to images that seem to be full of
 
 ## How it works?
 It uses linear congruential generator and a specific seed to generate a series of numbers.
-Then it add these numbers to the RGB value of every pixel in the image and save the result.
+Then it adds these numbers to the RGB values of every pixel in the image and save the result.
 
 ## How to use it?
 ### 1. Open image file using this program
