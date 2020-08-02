@@ -25,7 +25,7 @@ Then it add these numbers to the RGB value of every pixel in the image and save 
 ![Enter your seed](https://s1.ax1x.com/2020/08/02/aJaXC9.png "Enter your seed")
 ### 4. Wait patiently
 ### 5. Finish
-![Finish](https://s1.ax1x.com/2020/08/02/aJdZvt.png "Finish")
+![Finish](https://s1.ax1x.com/2020/08/02/aJdZvt.png "Finish")  
 **Notice: The result will be written back to the original file.**
 
 ## How can I know which method I should use?
